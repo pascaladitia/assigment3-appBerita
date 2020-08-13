@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">assigment3</string>
+    <string name="title">Judul Berita Terkini</string>
+    <string name="deskripsi">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+    <string name="author">Pascal Aditia Muclis</string>
+</resources>
